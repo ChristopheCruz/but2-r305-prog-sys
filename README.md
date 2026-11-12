@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/cours-10%20CM-CB6CE6?style=for-the-badge" alt="10 CM">
   <img src="https://img.shields.io/badge/TD%2FTP-9%20sujets-06B6D4?style=for-the-badge" alt="9 sujets">
   <img src="https://img.shields.io/badge/sécurité-ANSSI-EF4444?style=for-the-badge" alt="Sécurité ANSSI">
+  <a href="https://www.buymeacoffee.com/christophecruz"><img src="https://img.shields.io/badge/un%20café%20%3F-☕-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"></a>
 </p>
 
 <p align="center">
@@ -107,6 +108,16 @@ but2-r305-prog-sys/
 - [*Operating Systems: Three Easy Pieces*](https://pages.cs.wisc.edu/~remzi/OSTEP/) : un excellent livre, gratuit en ligne
 - M. Kerrisk, *The Linux Programming Interface* (No Starch Press) : la référence de la programmation système Linux
 - A. Tanenbaum, *Systèmes d'exploitation* (Pearson)
+
+## ☕ Un café pour l'auteur ?
+
+Ces supports sont libres et gratuits. S'ils vous ont aidé à comprendre `fork`, à dompter les pointeurs ou à décrocher un `FLAG{...}`, vous pouvez offrir un café pour encourager leur mise à jour :
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/christophecruz">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-☕-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee">
+  </a>
+</p>
 
 ## 📜 Licences
 
