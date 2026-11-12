@@ -1,0 +1,26 @@
+# Produits de compilation
+a.out
+*.o
+*.out
+*.exe
+*.dSYM/
+core
+core.*
+vgcore.*
+
+# Exécutables sans extension produits dans code/
+code/**/*
+!code/**/
+!code/**/*.c
+!code/**/*.h
+!code/**/*.txt
+
+# Fichiers temporaires et d'éditeurs
+*~
+*.swp
+.vscode/
+.idea/
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,7 @@
+=== LAMAE - BRIEFING CONFIDENTIEL ===
+Agent, votre mission : récupérer le contenu du coffre-fort numérique.
+Le coffre est caché quelque part dans un fichier banal.
+Vos outils : fopen, fgetc, fread, fseek... et open, read, write, lseek.
+Règle n°1 : chaque appel, son test d'erreur.
+Règle n°2 : ne jamais faire confiance à une taille lue dans un fichier.
+Premier fragment : FLAG{cat_sans_chat}
