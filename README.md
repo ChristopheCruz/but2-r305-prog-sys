@@ -68,6 +68,7 @@ Les exercices sont notés de ★ (incontournable) à ★★★ (pour aller plus 
 ## ⚡ Démarrer en 30 secondes
 
 ```bash
+sudo apt update && sudo apt install gcc build-essential gdb valgrind   # une seule fois
 git clone https://github.com/ChristopheCruz/but2-r305-prog-sys.git
 cd but2-r305-prog-sys/code/sujet01
 gcc -std=c17 -Wall -Wextra -pedantic -g hello.c -o hello
